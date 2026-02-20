@@ -1,6 +1,6 @@
 # 🕵️ RogueGPT-Monolith-V3
 
-![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=statuspage)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge&logo=statuspage)[https://roguegpt-monolith-v3.streamlit.app/]
 ![Version](https://img.shields.io/badge/Version-3.1.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
