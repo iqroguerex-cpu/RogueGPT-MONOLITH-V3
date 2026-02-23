@@ -20,4 +20,3 @@
 3. Add `OPENROUTER_API_KEY` in **Advanced Settings > Secrets**.
 
 [Made with ⚡ by Chinmay V Chatradamath]
-"""
