@@ -18,5 +18,3 @@
 1. Push code to GitHub.
 2. Deploy via Streamlit Community Cloud.
 3. Add `OPENROUTER_API_KEY` in **Advanced Settings > Secrets**.
-
-[Made with ⚡ by Chinmay V Chatradamath]
